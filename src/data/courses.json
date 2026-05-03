@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Web Architecture",
+    "instructor": "Dr. Aris Thorne",
+    "duration": "12 hours",
+    "rating": 4.9,
+    "description": "Master React, Next.js, and Tailwind CSS to build high-performance applications.",
+    "image": "/assets/course1.jpg",
+    "price": 49.99,
+    "category": "Development",
+    "students": "12.5k",
+    "curriculum": ["React Fundamentals", "Next.js App Router", "Server Components", "State Management"]
+  },
+  {
+    "id": "2",
+    "title": "Data-Driven Strategy",
+    "instructor": "Michael Chen",
+    "duration": "8 hours",
+    "rating": 4.8,
+    "description": "Learn to leverage big data and analytics to drive corporate decision making.",
+    "image": "/assets/course2.jpg",
+    "price": 59.99,
+    "category": "Business",
+    "students": "8.2k",
+    "curriculum": ["Data Analysis Basics", "Visualization with D3", "Strategic Planning", "Case Studies"]
+  },
+  {
+    "id": "3",
+    "title": "UI Design Systems",
+    "instructor": "Sarah Jenkins",
+    "duration": "10 hours",
+    "rating": 5.0,
+    "description": "A deep dive into creating scalable design systems for modern products.",
+    "image": "/assets/course3.jpg",
+    "price": 39.99,
+    "category": "Design",
+    "students": "15k",
+    "curriculum": ["Design Tokens", "Component Architecture", "Accessibility", "Documentation"]
+  },
+  {
+    "id": "4",
+    "title": "Advanced React Mastery",
+    "instructor": "Elena Rodriguez",
+    "duration": "15 hours",
+    "rating": 4.7,
+    "description": "Exploding complexity with patterns, performance optimization and testing.",
+    "image": "/assets/course4.jpg",
+    "price": 75.00,
+    "category": "Development",
+    "students": "5.4k",
+    "curriculum": ["Advanced Hooks", "Render Props & HOCs", "Performance Tuning", "Unit Testing with Vitest"]
+  },
+  {
+    "id": "5",
+    "title": "Python for Data Viz",
+    "instructor": "Dr. Amara Okafor",
+    "duration": "9 hours",
+    "rating": 4.9,
+    "description": "Transform complex data into stunning visual insights using Python libraries.",
+    "image": "/assets/course5.jpg",
+    "price": 99.00,
+    "category": "Data Science",
+    "students": "1.5k",
+    "curriculum": ["Pandas Essentials", "Matplotlib & Seaborn", "Interactive Plots with Plotly", "Dashboarding with Streamlit"]
+  },
+  {
+    "id": "6",
+    "title": "Digital Growth Hacking",
+    "instructor": "David Chen",
+    "duration": "6 hours",
+    "rating": 4.7,
+    "description": "Learn the secret strategies top startups use to scale rapidly and efficiently.",
+    "image": "/assets/course6.jpg",
+    "price": 59.99,
+    "category": "Marketing",
+    "students": "3.1k",
+    "curriculum": ["Funnel Optimization", "Viral Mechanics", "A/B Testing Mastery", "Influencer Marketing"]
+  }
+]
