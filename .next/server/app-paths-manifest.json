@@ -1,8 +1,11 @@
 {
-  "/page": "app/page.js",
-  "/courses/page": "app/courses/page.js",
-  "/icon.png/route": "app/icon.png/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/courses/[id]/page": "app/courses/[id]/page.js",
-  "/login/page": "app/login/page.js",
-  "/profile/page": "app/profile/page.js"
+  "/profile/page": "app/profile/page.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/courses/page": "app/courses/page.js",
+  "/register/page": "app/register/page.js",
+  "/profile/update/page": "app/profile/update/page.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js"
 }
